@@ -1,0 +1,11 @@
+{
+  "username": "Player",
+  "elo": 400,
+  "peak_elo": 400,
+  "games_played": 0,
+  "wins": 0,
+  "losses": 0,
+  "draws": 0,
+  "board_theme": "Green",
+  "sound_on": true
+}
